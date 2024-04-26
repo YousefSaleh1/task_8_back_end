@@ -24,4 +24,4 @@ Owner Information :
 }
 ```
 
-You Can View The API Documentation via ([The Link](https://documenter.getpostman.com/view/30507236/2sA35MxyE9)).
+You Can View The API Documentation via ([The Link](https://documenter.getpostman.com/view/30507236/2sA3Bt3VRR)).
